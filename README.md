@@ -1,4 +1,7 @@
 ## Hi there! Welcome to Rongrong (Stacy)'s GitHub 😊
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You!&hearts;++;Passionate+Computer-Programming+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+
+## About me
    - Currently, a Computer Programming student at Algonquin College 🏢
    - Looking for a Tech related job 💻
 ## I'm currently learning 📋
@@ -7,9 +10,13 @@
   - CST8283: Cobol Business Programming
   - CST8109: Network Programming
   - CST2234: Systems Analysis and Design
-## Languages:
+## Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ##
 | First Header  | Second Header |
