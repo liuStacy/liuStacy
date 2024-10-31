@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Welcome to Rongrong (Stacy)'s GitHub
+## Welcome to Rongrong (Stacy)'s GitHub 😊
 ## I’m currently Studing Computer Programming at Algonquin College 🏢
 ## 
 
