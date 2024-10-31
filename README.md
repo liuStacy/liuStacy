@@ -1,5 +1,5 @@
 ## Hi there! Welcome to Rongrong (Stacy)'s GitHub 😊
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Thank+You&hearts;++;Passionate+Computer+Programming+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Thank+You&hearts;++;Passionate+Computer+Programming+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 
 ## About me 🙆‍♀️
    - Currently, a Computer Programming student at Algonquin College 
