@@ -1,13 +1,21 @@
 ## Hi there! Welcome to Rongrong (Stacy)'s GitHub 😊
    - Currently, a Computer Programming student at Algonquin College 🏢
-   - Lookfing for a Tech related job 💻
+   - Looking for a Tech related job 💻
 ## I'm currently learning 📋
   - CST8288: Java with Design Patterns
   - CST2235: Android Mobile Graphical Interface Programming
   - CST8283: Cobol Business Programming
   - CST8109: Network Programming
   - CST2234: Systems Analysis and Design
-## M
+## Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+##
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 <!--
