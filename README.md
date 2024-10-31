@@ -1,4 +1,7 @@
 ## Hi there 👋
+## Welcome to Rongrong (Stacy)'s GitHub
+## I’m currently Studing Computer Programming at Algonquin College 🏢
+## 
 
 <!--
 **liuStacy/liuStacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
